@@ -5,8 +5,11 @@ Feauture maps closer to the input of model captures a lot of fine detail in the 
 
 
 ## Heatmaps - That Shows Triggered Points for Specific Class 
-<img width=400px src='outputs/cat_cam.jpg'>
-<img width=400px src='outputs/elephant_cam.jpg'>
+<div>
+<img style='display:inline-block;' height=300px width=400px src='outputs/cat_cam.jpg'>
+<img style='display:inline-block;' height=300px width=400px src='outputs/elephant_cam.jpg'> 
+</div>
+ 
 
 ## Convnets Filters
 <img width=400px src='outputs/block4_conv1.jpg'>
